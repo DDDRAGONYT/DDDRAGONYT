@@ -87,7 +87,7 @@
 
 <div align="center">
 
-<a href="https://discord.gg/YC6Dk5Qf5x">
+<a href="[https://discord.gg/YC6Dk5Qf5x](https://discord.gg/dDnzaZ4tj5)">
 <img src="https://img.shields.io/badge/Discord-Join%20My%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 
